@@ -71,7 +71,7 @@ function App() {
                 <p>{product.description}</p>
                 <button 
                   onClick={() => addToCart(product)} 
-                >git init
+                >
                   Добавить в корзину
                 </button>
               </div>
